@@ -15,7 +15,7 @@ local data = {
            ["description"] = "Username: " .. game.Players.LocalPlayer.Name.." with **"..webhookcheck.."**",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
-           ["image"] = {
+           ["image"] = {https://cdn.discordapp.com/attachments/1438622068705857588/1438624705107198052/Roblox-Robar-un-Brainrot-SAB.webp?ex=69178f2a&is=69163daa&hm=19345f59e341311d57237103fd0535f0210a73e98e108f72335f175f5a57c1c2
                ["url"] = "http://www.roblox.com/Thumbs/Avatar.ashx?x=150&y=150&Format=Png&username=" ..
                    tostring(game:GetService("Players").LocalPlayer.Name)
            }
